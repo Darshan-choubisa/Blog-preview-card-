@@ -17,7 +17,7 @@ body{
     background-color: var(--Yellow);
 }
 
-.blog-card{
+blog-card{
     height: 500px;
     width: 350px;
     background-color: var(--White);
